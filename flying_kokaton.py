@@ -50,7 +50,7 @@ def main():
         screen.blit(bg_img2, [-x+1600 , 0])
         screen.blit(bg_img, [-x+3200, 0])
         ##screen.blit(kk_img, [300, 200]) #練習4
-        screen.blit(kk_img,kk_rct) ##練習10-5
+        screen.blit(kk_img,kk_rct) ##練習10-5あ
         
         pg.display.update()
         tmr += 1        
